@@ -1,0 +1,19 @@
+<resources>
+	<color name="colorPrimary">#FF1A1A2E</color>
+	<color name="colorPrimaryDark">#FF0F0F1A</color>
+	<color name="colorAccent">#FFFF0000</color>
+	<color name="colorControlHighlight">#33FFFFFF</color>
+	<color name="colorControlNormal">#FFAAAAAA</color>
+	<color name="black">#FF000000</color>
+	<color name="white">#FFFFFFFF</color>
+	<color name="surfaceDark">#FF121212</color>
+	<color name="surfaceCard">#FF1E1E2E</color>
+	<color name="textPrimary">#FFFFFFFF</color>
+	<color name="textSecondary">#FFB0B0B0</color>
+	<color name="redAccent">#FFFF0000</color>
+	<color name="bottomNavBg">#FF1A1A2E</color>
+	<color name="toolbarBg">#CC0F0F1A</color>
+	<color name="pipButtonBg">#CCFF0000</color>
+	<color name="progressBar">#FFFF0000</color>
+	<color name="statusBar">#FF0F0F1A</color>
+</resources>
