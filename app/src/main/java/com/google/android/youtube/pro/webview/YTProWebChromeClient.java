@@ -36,7 +36,7 @@ public class YTProWebChromeClient extends WebChromeClient {
 
     @Override
     public void onProgressChanged(android.webkit.WebView view, int newProgress) {
-        activity.setProgress(newProgress);
+        activity.updateProgress(newProgress);
     }
 
     @Override

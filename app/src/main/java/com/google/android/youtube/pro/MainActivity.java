@@ -142,7 +142,7 @@ public class MainActivity extends Activity {
         });
     }
 
-    public void setProgress(int progress) {
+    public void updateProgress(int progress) {
         if (progressBar != null) {
             if (progress >= 100) {
                 progressBar.setVisibility(View.GONE);
